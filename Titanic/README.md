@@ -5,6 +5,6 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 ### In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
 
-First submit in R: score final de 0.79425
+First submit in R: Score 0.79425
 
 https://www.kaggle.com/c/titanic
